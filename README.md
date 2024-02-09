@@ -14,8 +14,8 @@ O projeto consegue criar e excluir notas, as notas ficam salvas no localstorage 
 O design responsivo está presente na aplicação, com a utilização do tailwind apresenta uma interface simples e eficaz ao que se propõe
 
 # Iniciar projeto
-copie ou clone o projeto com git clone
+⚫ git clone
 
-npm install
+⚫ npm install
 
-npm run dev
+⚫ npm run dev
