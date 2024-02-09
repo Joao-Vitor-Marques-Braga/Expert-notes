@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { ChangeEvent, useState } from 'react'
 import Logo from './assets/Logo.svg'
 import { NewNoteCard } from './components/new-note-card'
 import { NoteCard } from './components/note-card'
@@ -22,7 +22,7 @@ export default function App() {
     return[]
   })
 
-  function handleSearch(event: ChengeEvent<HTMLInputElement>){
+  function handleSearch(event: ChangeEvent<HTMLInputElement>): void{
     const query = event.target.value
 
     setSearch(query)
