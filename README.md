@@ -15,5 +15,7 @@ O design responsivo está presente na aplicação, com a utilização do tailwin
 
 # Iniciar projeto
 copie ou clone o projeto com git clone
+
 npm install
+
 npm run dev
