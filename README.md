@@ -12,3 +12,8 @@
 Este projeto trabalha como um quadro de notas, sendo elas ecritas e transcritas com a opção de gravação de voz através da API SpeechRecognition. Esta aplicação veio da trilha de React do NLW da rocketseat
 O projeto consegue criar e excluir notas, as notas ficam salvas no localstorage do seu navegador
 O design responsivo está presente na aplicação, com a utilização do tailwind apresenta uma interface simples e eficaz ao que se propõe
+
+# Iniciar projeto
+copie ou clone o projeto com git clone
+npm install
+npm run dev
